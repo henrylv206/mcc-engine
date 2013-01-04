@@ -10,5 +10,6 @@
   	<module>mcc-indexer</module>
   	<module>mcc-searcher</module>
   	<module>mcc-web</module>
+  	<module>mcc-crawler</module>
   </modules>
 </project>
