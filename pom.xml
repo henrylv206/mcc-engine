@@ -6,4 +6,9 @@
   <packaging>pom</packaging>
   <name>Henry Lv</name>
   <description>My Master Thesis.</description>
+  <modules>
+  	<module>mcc-indexer</module>
+  	<module>mcc-searcher</module>
+  	<module>mcc-web</module>
+  </modules>
 </project>
