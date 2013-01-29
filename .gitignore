@@ -9,7 +9,7 @@
 
 *.ear
 
-.project
-.settings
-.classpath
-target
+*.project
+*.settings
+*.classpath
+*target
