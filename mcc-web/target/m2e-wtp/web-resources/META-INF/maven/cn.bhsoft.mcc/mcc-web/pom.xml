@@ -7,9 +7,7 @@
     <artifactId>mcc-engine</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>cn.bhsoft.mcc</groupId>
   <artifactId>mcc-web</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>mcc-web Maven Webapp</name>
   <url>http://maven.apache.org</url>

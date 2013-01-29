@@ -12,4 +12,11 @@
   	<module>mcc-web</module>
   	<module>mcc-crawler</module>
   </modules>
+  
+  <repositories>
+  	<repository>
+  		<id>central-mirror</id>
+  		<url>http://repo.maven.apache.org/maven2</url>
+  	</repository>
+  </repositories>
 </project>
